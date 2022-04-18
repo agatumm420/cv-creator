@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cv-creator/static/css/main.7f832f52.css",
+    "main.js": "/cv-creator/static/js/main.458a7000.js",
+    "static/js/787.15b63752.chunk.js": "/cv-creator/static/js/787.15b63752.chunk.js",
+    "static/media/Roboto-Light.ttf": "/cv-creator/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/cv-creator/static/media/Quicksand-VariableFont_wght.92e1d0f3321b53e20d2b.ttf",
+    "index.html": "/cv-creator/index.html",
+    "main.7f832f52.css.map": "/cv-creator/static/css/main.7f832f52.css.map",
+    "main.458a7000.js.map": "/cv-creator/static/js/main.458a7000.js.map",
+    "787.15b63752.chunk.js.map": "/cv-creator/static/js/787.15b63752.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f832f52.css",
+    "static/js/main.458a7000.js"
+  ]
+}
