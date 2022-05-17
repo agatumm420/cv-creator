@@ -54,7 +54,7 @@ class App extends Component{
     
     return <div className='big-box'>
             
-                <Preview  style={this.state.style} name={this.state.name} surname={this.state.surname} email={ this.state.email} number={this.state.number} city={this.state.city} 
+                <Preview  style={this.state.style} logo={this.state.logo} name={this.state.name} surname={this.state.surname} email={ this.state.email} number={this.state.number} city={this.state.city} 
                     level={this.state.level} institiution={this.state.institiution} year={this.state.year} major={this.state.major} inroll={this.state.inroll}
                     company={this.state.company} position={this.state.position} date_start={this.state.date_start} date_end={this.state.date_end}
                     language={this.state.language} lang_level={this.state.lang_level} submitted={this.state.submitted} whenSubmitted={this.Submit.bind(this)}
